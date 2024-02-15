@@ -79,6 +79,9 @@ The script will start tracking Itch.io for free items and send Discord notificat
 
 ![ItchSaleSentry2](https://github.com/xAbdoATx/Itch-Sale-Sentry/assets/160148781/1c2cd69f-e299-46ad-acac-48e4c000abfe)
 
+![ItchSaleSentry1](https://github.com/xAbdoATx/Itch-Sale-Sentry/assets/160148781/397dac47-6f40-43b2-9fba-c4b27d0c2653)
+
+
 ## Contributing
 If you would like to contribute to this project, feel free to fork the repository and submit pull requests.
 
