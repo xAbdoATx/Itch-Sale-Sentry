@@ -1,6 +1,6 @@
 # ItchSaleSentry
 
-ItchSaleSentry is a Python script that autonomously tracks and notifies users of free items, including games and more, available on the Itch.io platform. Stay updated on the latest Itch.io freebies with automated Discord notifications, brought to you by ItchSaleSentry.
+ItchSaleSentry is a Python script that autonomously tracks and notifies users of items, including games and more, on the Itch.io platform when they become temporarily available for free due to limited-time sales or discounts, consistently reaching a 100% discount. Stay updated on the latest opportunities with automated Discord notifications, brought to you by ItchSaleSentry.
 
 ## Table of Contents
 
@@ -20,7 +20,7 @@ The script tracks data from [freetchio](https://shaigrorb.github.io/freetchio/),
 
 ## Acknowledgment
 
-Special thanks to [ShaigroRB](https://github.com/shaigrorb) for providing the data source and contributing to the project.
+Special thanks to [ShaigroRB](https://github.com/shaigrorb) for making the data source publicly accessible, enabling the project to track Itch.io items.
 
 ## Installation
 
