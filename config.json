@@ -1,0 +1,7 @@
+{
+    "webhook_name": "Itch Sale Sentry",
+    "webhook_image": "https://itch.io/static/images/itchio-square-144.png",
+    "track_url": "https://raw.githubusercontent.com/ShaigroRB/freetchio/main/assets/items.json",
+    "webhook_url": "YOUR_DISCORD_WEBHOOK_URL"
+}
+  
