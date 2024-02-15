@@ -77,6 +77,8 @@ Make sure to install these dependencies to ensure the proper functioning of Itch
   python main.py
 The script will start tracking Itch.io for free items and send Discord notifications for new discoveries.
 
+![ItchSaleSentry2](https://github.com/xAbdoATx/Itch-Sale-Sentry/assets/160148781/1c2cd69f-e299-46ad-acac-48e4c000abfe)
+
 ## Contributing
 If you would like to contribute to this project, feel free to fork the repository and submit pull requests.
 
